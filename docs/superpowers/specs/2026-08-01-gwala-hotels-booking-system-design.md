@@ -85,7 +85,7 @@ Bihari Mandir Street — worth leading with on that branch's page and in its pag
 title, since proximity to the temple is what most pilgrims search for.
 
 **Contact.** All five branches share one WhatsApp and phone number,
-**+91 70601 89819** (`917060189819` in click-to-chat links). The number is stored
+**+91 84451 44122** (`918445144122` in click-to-chat links). The number is stored
 per branch rather than globally, so any branch can be given its own later without
 a code change.
 

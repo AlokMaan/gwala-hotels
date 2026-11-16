@@ -195,7 +195,7 @@ export function SettingsScreen() {
           <div>
             <label htmlFor="st-phone" className="field-label">
               WhatsApp number{" "}
-              <span className="font-normal">(digits, e.g. 917060189819)</span>
+              <span className="font-normal">(digits, e.g. 918445144122)</span>
             </label>
             <input
               id="st-phone"

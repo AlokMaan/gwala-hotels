@@ -12,7 +12,7 @@ const settingsSchema = z.object({
   phone: z
     .string()
     .trim()
-    .regex(/^\d{10,14}$/, "Digits only, e.g. 917060189819")
+    .regex(/^\d{10,14}$/, "Digits only, e.g. 918445144122")
     .optional(),
   displayPhone: z.string().trim().max(20).optional(),
   email: z.string().trim().email().max(120).optional().or(z.literal("")),

@@ -6,8 +6,8 @@ import type { Hotel, RoomType } from "@/lib/types";
 //
 // All branches currently share one WhatsApp/phone number. It is stored per
 // branch so any branch can be given its own later without a code change.
-const SHARED_PHONE = "917060189819";
-const SHARED_DISPLAY_PHONE = "+91 70601 89819";
+const SHARED_PHONE = "918445144122";
+const SHARED_DISPLAY_PHONE = "+91 84451 44122";
 
 type SeedHotel = Hotel; // ids come from the slug
 

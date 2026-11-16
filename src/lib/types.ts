@@ -12,8 +12,8 @@ export interface Hotel {
   mapsUrl: string; // maps.app.goo.gl short link, for "Get directions"
   mapFtid: string; // Google place id for the keyless embed
   distances: Record<string, string>; // attraction slug -> "5 min walk"
-  phone: string; // digits only for wa.me links: "917060189819"
-  displayPhone: string; // "+91 70601 89819"
+  phone: string; // digits only for wa.me links: "918445144122"
+  displayPhone: string; // "+91 84451 44122"
   email: string;
   amenities: string[];
   heroImage: string; // "/hotels/gwala-inn/hero.jpg"
